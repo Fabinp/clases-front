@@ -1,0 +1,115 @@
+body{ 
+background-color: #e6e6e6;
+    }
+
+.logob{ 
+    width: 100px;
+    height: 146.37px;
+    display:block;
+margin:auto;
+padding-bottom:15px
+}
+
+h1{text-align: center;
+    
+   
+    
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+  margin-top: 0px;
+    /* identical to box height, or 30px */
+    
+    font-feature-settings: 'cpsp' on;
+    
+    color: #005677;
+
+
+ 
+    
+    background: #C4C4C4;
+}
+
+h2{
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+color: #005677;
+    background: #C4C4C4;
+
+
+
+}
+
+
+.Padre{
+   
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Datos{
+    padding-top: 0px;
+background-color: #ffffff;
+    width:90%;
+
+}
+
+.DatosPersonales{
+padding-top: 50px;
+
+    }
+.letra{
+
+
+font-family: 'Times New Roman';
+font-style: italic;
+font-weight: 700;
+font-size: 15px;
+line-height: 84.69%;
+/* identical to box height, or 13px */
+
+
+color: #000000;
+}
+
+
+
+
+.foo{
+    margin-top: 120px;
+    text-align: center;
+color:white;
+    background: #005677;
+height: 40px;
+  margin-bottom: : 0px;
+ 
+}
+
+.foo img{
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+.bat{/* 0810 - BATMAN */
+
+
+    position: absolute;
+    width: 145px;
+    height: 17px;
+    left: 601px;
+    top: 998px;
+    
+    font-family: 'Times New Roman';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 84.69%;
+    /* identical to box height, or 17px */
+    
+    
+    color: #FFFFFF;}
